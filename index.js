@@ -5,7 +5,6 @@ var kittens = ["Milo", "Otis", "Garfield"]
 function appendKitten() {
 return [...kittens, "Broom"]
 }
-<<<<<<< HEAD
 function destructivelyAppendKitten(name) {
   return kittens.push(name)
 }
